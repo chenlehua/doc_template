@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'doc_template'
-copyright = '2021, 周贺贺'
-author = '周贺贺'
+copyright = '2025, gavin'
+author = 'gavin'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
